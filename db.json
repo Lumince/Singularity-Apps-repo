@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "modules": [
+    {
+      "id": "dock_editor",
+      "name": "Dock Editor",
+      "description": "A simple tool for Quest headsets that allows you to edit the pinned applications on Dock UI",
+      "author": "Lumince",
+      "githubOwner": "Lumince",
+      "githubRepo": "DockEditor",
+      "assetSuffix": ".apk",
+      "packageName": "com.lumi.dockeditor"
+    },
+    {
+      "id": "bolton",
+      "name": "BoltOn",
+      "description": "All in one solution to add modular facetracking patches + tongue tracking on Quest Pro",
+      "author": "BoltOn-Development",
+      "githubOwner": "BoltOn-Development",
+      "githubRepo": "BoltOn-QPro-App",
+      "assetSuffix": ".apk",
+      "deviceFilter": "QUEST_PRO",
+      "packageName": "org.bolton.calibration"
+    },
+    {
+      "id": "quest_home_switcher",
+      "name": "Quest Home Switcher",
+      "description": "Discover, download and switch Quest Homes, with built-in Wireless ADB and Root support",
+      "author": "nikitat21",
+      "githubOwner": "nikitat21",
+      "githubRepo": "Quest-Home-Switcher",
+      "assetSuffix": ".apk",
+      "deviceFilter": "QUEST_2,QUEST_PRO,QUEST_3,QUEST_3S",
+      "packageName": "app.questhomeswitcher"
+    },
+    {
+      "id": "app_manager",
+      "name": "App Manager",
+      "description": "A full-featured package manager and viewer for Android",
+      "author": "MuntashirAkon",
+      "githubOwner": "MuntashirAkon",
+      "githubRepo": "AppManager",
+      "assetSuffix": ".apk",
+      "packageName": "io.github.muntashirakon.AppManager"
+    },
+    {
+      "id": "shizuku",
+      "name": "Shizuku",
+      "description": "Lets other apps use system-level features by giving them elevated permissions",
+      "author": "RikkaApps",
+      "githubOwner": "RikkaApps",
+      "githubRepo": "Shizuku",
+      "assetSuffix": ".apk",
+      "packageName": "moe.shizuku.privileged.api"
+    },
+    {
+      "id": "mixplorer",
+      "name": "MiXplorer",
+      "description": "Root File Explorer",
+      "author": "driftywinds",
+      "githubOwner": "driftywinds",
+      "githubRepo": "mixplorer-releases",
+      "assetSuffix": ".apk",
+      "packageName": "com.mixplorer"
+    }
+  ]
+}
