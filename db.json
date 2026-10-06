@@ -62,6 +62,16 @@
       "githubRepo": "mixplorer-releases",
       "assetSuffix": ".apk",
       "packageName": "com.mixplorer"
+    },
+    {
+      "id": "quest_terminal",
+      "name": "Quest Terminal",
+      "description": "A terminal app for Meta Quest that gives you a real uid 2000 shell via Shizuku, no root required",
+      "author": "Banban465-tech",
+      "githubOwner": "Banban465-tech",
+      "githubRepo": "Quest-Terminal",
+      "assetSuffix": ".apk",
+      "packageName": "com.BB465_stuff.Terminal"
     }
   ]
 }
